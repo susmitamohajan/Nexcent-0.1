@@ -195,6 +195,7 @@ nav .row {
 
 #clint {
 	padding: 40px 0;
+	background-color: var(--neutral-white);
 }
 
 #clint .row {
@@ -208,6 +209,7 @@ nav .row {
 
 #community {
 	padding: 40px 0;
+	background-color: var(--neutral-white);
 }
 
 #community .row {
@@ -245,5 +247,6 @@ nav .row {
 	line-height: 143%;
 	color: var(--neutral-grey);
 }
+
 
 /* *Community Section End */
